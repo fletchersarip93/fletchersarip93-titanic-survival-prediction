@@ -1,1 +1,1 @@
-# fletchersarip93-titanic-survival-prediction
+# titanic-survival-prediction
